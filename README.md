@@ -83,6 +83,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 #### NoSQL
 
+- [MySQL](databases/mysql.sh)
 - [Redis](databases/redis.sh)
   </details>
 
@@ -94,6 +95,8 @@ Feel free to take a look. You might learn new things. They have been designed to
 #### Development
 
 - [cURL](tools/curl.sh)
+- [Elasticsearch](tools/elasticsearch.js)
+- [Emmet](tools/emmet.md)
 - [Git](tools/git.sh)
 - [Puppeteer](tools/puppeteer.js)
 - [Sublime Text](tools/sublime_text.md)
@@ -108,6 +111,8 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [Kubernetes](tools/kubernetes.sh)
 - [Nanobox Boxfile](tools/nanobox_boxfile.yml)
 - [Nanobox CLI](tools/nanobox_cli.sh)
+- [Nginx](tools/nginx.sh)
+- [Ubuntu](tools/ubuntu.sh)
   </details>
 
 ## 🙌🏼 How to Contribute?
