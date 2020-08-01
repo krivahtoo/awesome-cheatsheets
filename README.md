@@ -81,9 +81,12 @@ Feel free to take a look. You might learn new things. They have been designed to
 <details>
 <summary>View cheatsheets</summary>
 
-#### NoSQL
+#### SQL
 
 - [MySQL](databases/mysql.sh)
+
+#### NoSQL
+
 - [Redis](databases/redis.sh)
   </details>
 
@@ -108,7 +111,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 - [Docker](tools/docker.sh)
 - [Heroku CLI](tools/heroku.sh)
-- [Kubernetes](tools/kubernetes.sh)
+- [Kubernetes](tools/kubernetes.md)
 - [Nanobox Boxfile](tools/nanobox_boxfile.yml)
 - [Nanobox CLI](tools/nanobox_cli.sh)
 - [Nginx](tools/nginx.sh)
